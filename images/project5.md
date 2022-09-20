@@ -121,3 +121,7 @@ Replace ‘127.0.0.1’ to ‘0.0.0.0’ like this:
 
 ![Show Databases](../images/Show-db.png)
 
+If you see an output similar to the below image, then you have successfully completed this project – you have deloyed a fully functional MySQL Client-Server set up.
+Well Done! You are getting there gradually. You can further play around with this set up and practice in creating/dropping databases & tables and inserting/selecting records to and from them.
+
+Congratulations!
